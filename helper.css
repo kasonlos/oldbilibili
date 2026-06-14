@@ -236,11 +236,11 @@
 	display: inline-block;
 	*display: inline;
 	*zoom: 1;
-	background: url(/web/20160316070012im_/http://i2.hdslb.com/u_user/bilibili-help-center/img/icons.png) center 0px no-repeat;
+	background: url(https://kasonlos.github.io/oldbilibili/img/help-icons.png) center 0px no-repeat;
 }
 
 .active .helper-icon-expands {
-	background: url(/web/20160316070012im_/http://i2.hdslb.com/u_user/bilibili-help-center/img/icons.png) center -19px no-repeat;
+	background: url(https://kasonlos.github.io/oldbilibili/img/help-icons.png) center -19px no-repeat;
 }
 
 .helper-icon-dots {
